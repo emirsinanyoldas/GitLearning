@@ -6,3 +6,4 @@ bazı satırları Vs studio da ekledim
 + dolor sit amet
 
 ## falan felan bazı eklemeler
+- ignore da ve burada yeni satır eklendi
