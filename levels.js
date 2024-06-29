@@ -1,1 +1,0 @@
-const str1 = "Emir Sinan"
