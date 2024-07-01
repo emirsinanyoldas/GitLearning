@@ -1,2 +1,4 @@
 bu dosya bir text dosyasıdır
 bla bla bla bazı satırlar
+
+bunu değişiklik için yazdım
