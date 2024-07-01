@@ -1,0 +1,1 @@
+new int integer1 = 25;
