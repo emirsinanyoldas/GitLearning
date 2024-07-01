@@ -1,1 +1,0 @@
-Burada main menu elemanları yapıldı.
