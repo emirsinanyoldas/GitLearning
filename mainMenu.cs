@@ -5,7 +5,10 @@ class Program {
         new int integer1=25;
 
         if (integer1 > 20) {
-            Console.WriteLine("Hello World")
+            Console.WriteLine("Hello World");
+        }
+        else{
+        	Console.WriteLine("Not hello world");
         }
 
     }
