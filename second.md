@@ -9,4 +9,6 @@ bazı satırları Vs studio da ekledim
 - ignore da ve burada yeni satır eklendi
 
 # git stash öğrenme
-**git stash ile kaydetmeden işlemleri localde tutabiliyoruz
+**git stash ile kaydetmeden işlemleri localde tutabiliyoruz**
+
+# bu satır HEAD	dönüşümü için yazıldı
