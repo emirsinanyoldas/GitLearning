@@ -12,3 +12,4 @@ bazı satırları Vs studio da ekledim
 **git stash ile kaydetmeden işlemleri localde tutabiliyoruz**
 
 # bu satır HEAD	dönüşümü için yazıldı
+_git restore sadece bir adım geriye dönüş yapar_
