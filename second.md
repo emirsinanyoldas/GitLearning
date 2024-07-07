@@ -15,3 +15,5 @@ bazı satırları Vs studio da ekledim
 _git restore sadece bir adım geriye dönüş yapar_
 
 *git checkout <commit tagi> istenilen commit' e gider*
+
+## _git checkout yapıldığında HEAD açıkta kalır_
