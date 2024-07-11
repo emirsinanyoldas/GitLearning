@@ -25,3 +25,4 @@ _git restore sadece bir adım geriye dönüş yapar_
 + reset --hard içeriği de siler
 
 # git revert değişiklik yapmaya yarar
+- git reset yaptığında sadece commitler siliniyor
