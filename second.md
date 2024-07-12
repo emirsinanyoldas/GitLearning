@@ -26,3 +26,6 @@ _git restore sadece bir adım geriye dönüş yapar_
 
 # git revert değişiklik yapmaya yarar
 - git reset yaptığında sadece commitler siliniyor
+
+**git diff değişiklik yapmaya yarar**
+
