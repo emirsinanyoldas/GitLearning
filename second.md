@@ -29,3 +29,4 @@ _git restore sadece bir adım geriye dönüş yapar_
 
 **git diff değişiklik yapmaya yarar**
 
+- diff branch, commitler karşılaştırılabilir
