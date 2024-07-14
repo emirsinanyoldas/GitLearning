@@ -3,3 +3,5 @@ bla bla bla bazı satırlar
 
 bunu değişiklik için yazdım
 git stash için yazılan satır
+
+git kullanımını öğrenmek için denemeler yapmalısın
