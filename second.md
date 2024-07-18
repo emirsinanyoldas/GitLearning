@@ -11,6 +11,8 @@ bazı satırları Vs studio da ekledim
 # git stash öğrenme
 **git stash ile kaydetmeden işlemleri localde tutabiliyoruz**
 
+# pull request kısmını çok anlamadım
+=======
 # bu satır HEAD	dönüşümü için yazıldı
 _git restore sadece bir adım geriye dönüş yapar_
 
