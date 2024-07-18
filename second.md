@@ -12,3 +12,23 @@ bazı satırları Vs studio da ekledim
 **git stash ile kaydetmeden işlemleri localde tutabiliyoruz**
 
 # pull request kısmını çok anlamadım
+=======
+# bu satır HEAD	dönüşümü için yazıldı
+_git restore sadece bir adım geriye dönüş yapar_
+
+*git checkout <commit tagi> istenilen commit' e gider*
+
+## _git checkout yapıldığında HEAD açıkta kalır_
+
+- git reset için ekleme
++ bunu çok daha sonraları reset için ekledim
+
+- git reset yaptığında sadece commitler siliniyor
++ reset --hard içeriği de siler
+
+# git revert değişiklik yapmaya yarar
+- git reset yaptığında sadece commitler siliniyor
+
+**git diff değişiklik yapmaya yarar**
+
+- diff branch, commitler karşılaştırılabilir
