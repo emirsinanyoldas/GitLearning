@@ -1,1 +1,1 @@
-lorem ipsum with apo
+Apo ile deneme için değişiklik
